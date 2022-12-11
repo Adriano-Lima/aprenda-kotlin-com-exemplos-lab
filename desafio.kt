@@ -34,7 +34,7 @@ fun main() {
     val falvo = Usuario("Falvo",2L)
     val rodrigo = Usuario("Rodrigo",3L)
 
-    //criando a lista de conteudos da formacao de Kolin
+    //criando a lista de conteudos da formacao de Kotlin
     val listaConteudosKotlin:List<ConteudoEducacional> = listOf(
         ConteudoEducacional("Introdução ao Desenvolvimento Moderno de Software","Kotlin"),
         ConteudoEducacional("Conhecendo o Kotlin e Sua Documentação Oficial","Kotlin"),
